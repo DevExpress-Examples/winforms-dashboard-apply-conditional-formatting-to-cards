@@ -4,7 +4,7 @@
 
 # WinForms Dashboard - How to Apply Conditional Formatting to the Card Dashboard Item
 
-![](~/images/win-dashboard-conditional-formatting-card-example.png)
+![](/images/win-dashboard-conditional-formatting-card-example.png)
 
 The example contains the following methods that apply a set of format rules to cards:
 
