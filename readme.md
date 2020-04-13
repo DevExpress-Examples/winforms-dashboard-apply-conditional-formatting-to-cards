@@ -1,6 +1,6 @@
 *Files to look at*:
 
-* [Form1.cs](./CS/Form1.cs)(VB: [Form1.vb](./CS/Form1.vb))
+* [Form1.cs](./CS/CardFormatRulesSample/Form1.cs) (VB: [Form1.vb](./CS/CardFormatRulesSample/Form1.vb))
 
 # WinForms Dashboard - How to Apply Conditional Formatting to the Card Dashboard Item
 
