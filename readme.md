@@ -18,11 +18,12 @@ The example contains the following methods that apply a set of format rules to c
 
 The table below lists format rules used in this example and the condition type they apply.
 
-|Format Condition Type |  Rule Name |
-|---|---|
-|[Value](https://docs.devexpress.com/Dashboard/114402/common-features/appearance-customization/conditional-formatting/value?v=20.1)|   **backColorStyleRule** 
-|                          |  **iconRule** 
-|                          |  **fontStyleRule** 
-|[Gradient Ranges](https://docs.devexpress.com/Dashboard/114407/common-features/appearance-customization/conditional-formatting/gradient-ranges?v=20.1) |  **rangeRule** 
-|                          |  **gradientRule** 
-|[Icon Ranges](https://docs.devexpress.com/Dashboard/114405/common-features/appearance-customization/conditional-formatting/icon-ranges?v=20.1) | **deltaIconRule** 
+|Format Condition Type |  Rule Name | Appearance style |
+|---|---|---|
+|[Value](https://docs.devexpress.com/Dashboard/114402/common-features/appearance-customization/conditional-formatting/value?v=20.1)|   **backColorStyleRule** | Applies a light-green background color to cards whose actual value is equal to the set condition.
+|                          |  **iconRule** | Applies full gray star icons to cards whose percentage variation value is greater than the set condition value.
+|                          |  **fontStyleRule** | Applies the bold dark-blue font style to the cards' actual value that is between the range of condition values.
+|                          |  **fontStyleUnderlinedRule**            | Applies the underlined red font style to the title of cards whose absolute variation value is less than the condition value.
+|[Gradient Ranges](https://docs.devexpress.com/Dashboard/114407/common-features/appearance-customization/conditional-formatting/gradient-ranges?v=20.1) |  **rangeRule** | Applies a predefined range of colors to  cards.
+|                          |  **gradientRule** | Applies a predefined range of colors to cards.
+|[Icon Ranges](https://docs.devexpress.com/Dashboard/114405/common-features/appearance-customization/conditional-formatting/icon-ranges?v=20.1) | **deltaIconRule** | Applies the positive-negative icon range to cards.
