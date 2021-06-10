@@ -27,3 +27,11 @@ The table below lists format rules used in this example and the condition type t
 |[Gradient Ranges](https://docs.devexpress.com/Dashboard/114407/common-features/appearance-customization/conditional-formatting/gradient-ranges?v=20.1) |  **rangeRule** | Applies a predefined range of colors to  cards.
 |                          |  **gradientRule** | Applies a predefined range of colors to cards.
 |[Icon Ranges](https://docs.devexpress.com/Dashboard/114405/common-features/appearance-customization/conditional-formatting/icon-ranges?v=20.1) | **deltaIconRule** | Applies the positive-negative icon range to cards.
+
+## Documentation
+
+* [Conditional Formatting](https://docs.devexpress.com/Dashboard/401935) 
+
+## More Examples
+* [WinForms Dashboard - How to Highlight Data in a Scatter Chart Dashboard Item](https://github.com/DevExpress-Examples/WinForms-Dashboard-How-to-Highlight-Data-in-the-Scatter-Chart-Dashboard-Item)
+* [How to Apply Conditional Formatting to the Chart Dashboard Item](https://github.com/DevExpress-Examples/WinForms-Dashboard-How-to-Apply-Conditional-Formatting-to-the-Chart-Dashboard-Item)
