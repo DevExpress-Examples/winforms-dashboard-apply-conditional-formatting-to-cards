@@ -3,9 +3,6 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T879233)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-*Files to look at*:
-
-* [Form1.cs](./CS/CardFormatRulesSample/Form1.cs) (VB: [Form1.vb](./VB/CardFormatRulesSample/Form1.vb))
 
 # WinForms Dashboard - How to Apply Conditional Formatting to the Card Dashboard Item
 
@@ -32,6 +29,10 @@ The table below lists format rules used in this example and the condition type t
 |[Gradient Ranges](https://docs.devexpress.com/Dashboard/114407/common-features/appearance-customization/conditional-formatting/gradient-ranges?v=20.1) |  **rangeRule** | Applies a predefined range of colors to  cards.
 |                          |  **gradientRule** | Applies a predefined range of colors to cards.
 |[Icon Ranges](https://docs.devexpress.com/Dashboard/114405/common-features/appearance-customization/conditional-formatting/icon-ranges?v=20.1) | **deltaIconRule** | Applies the positive-negative icon range to cards.
+
+## Files to Review
+
+* [Form1.cs](./CS/CardFormatRulesSample/Form1.cs) (VB: [Form1.vb](./VB/CardFormatRulesSample/Form1.vb))
 
 ## Documentation
 
