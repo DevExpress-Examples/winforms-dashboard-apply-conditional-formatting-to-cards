@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Dashboard - How to Apply Conditional Formatting to the Card Dashboard Item
+# BI Dashboard for WinForms - How to Apply Conditional Formatting to the Card Dashboard Item
 
 ![](/images/win-dashboard-conditional-formatting-card-example.png)
 
